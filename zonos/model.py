@@ -312,4 +312,4 @@ class Zonos(nn.Module):
 
         self._cg_graph = None  # reset cuda graph to avoid cache changes
 
-        return out_codes
+        return out_codes, step, remaining_steps

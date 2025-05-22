@@ -1,0 +1,1476 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "getenv",
+        "importPath": "os",
+        "description": "os",
+        "isExtraImport": true,
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "create_block",
+        "importPath": "mamba_ssm.models.mixer_seq_simple",
+        "description": "mamba_ssm.models.mixer_seq_simple",
+        "isExtraImport": true,
+        "detail": "mamba_ssm.models.mixer_seq_simple",
+        "documentation": {}
+    },
+    {
+        "label": "layer_norm_fn",
+        "importPath": "mamba_ssm.ops.triton.layer_norm",
+        "description": "mamba_ssm.ops.triton.layer_norm",
+        "isExtraImport": true,
+        "detail": "mamba_ssm.ops.triton.layer_norm",
+        "documentation": {}
+    },
+    {
+        "label": "BackboneConfig",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "InferenceParams",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "BackboneConfig",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "InferenceParams",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "PrefixConditionerConfig",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "InferenceParams",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "ZonosConfig",
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "isExtraImport": true,
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "torchaudio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchaudio",
+        "description": "torchaudio",
+        "detail": "torchaudio",
+        "documentation": {}
+    },
+    {
+        "label": "DacModel",
+        "importPath": "transformers.models.dac",
+        "description": "transformers.models.dac",
+        "isExtraImport": true,
+        "detail": "transformers.models.dac",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "find_multiple",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pad_weight_",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "isExtraImport": true,
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "unicodedata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unicodedata",
+        "description": "unicodedata",
+        "detail": "unicodedata",
+        "documentation": {}
+    },
+    {
+        "label": "inflect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inflect",
+        "description": "inflect",
+        "detail": "inflect",
+        "documentation": {}
+    },
+    {
+        "label": "number2kanji",
+        "importPath": "kanjize",
+        "description": "kanjize",
+        "isExtraImport": true,
+        "detail": "kanjize",
+        "documentation": {}
+    },
+    {
+        "label": "EspeakBackend",
+        "importPath": "phonemizer.backend",
+        "description": "phonemizer.backend",
+        "isExtraImport": true,
+        "detail": "phonemizer.backend",
+        "documentation": {}
+    },
+    {
+        "label": "Dictionary",
+        "importPath": "sudachipy",
+        "description": "sudachipy",
+        "isExtraImport": true,
+        "detail": "sudachipy",
+        "documentation": {}
+    },
+    {
+        "label": "SplitMode",
+        "importPath": "sudachipy",
+        "description": "sudachipy",
+        "isExtraImport": true,
+        "detail": "sudachipy",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "safetensors",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "safetensors",
+        "description": "safetensors",
+        "detail": "safetensors",
+        "documentation": {}
+    },
+    {
+        "label": "hf_hub_download",
+        "importPath": "huggingface_hub",
+        "description": "huggingface_hub",
+        "isExtraImport": true,
+        "detail": "huggingface_hub",
+        "documentation": {}
+    },
+    {
+        "label": "hf_hub_download",
+        "importPath": "huggingface_hub",
+        "description": "huggingface_hub",
+        "isExtraImport": true,
+        "detail": "huggingface_hub",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "DACAutoencoder",
+        "importPath": "zonos.autoencoder",
+        "description": "zonos.autoencoder",
+        "isExtraImport": true,
+        "detail": "zonos.autoencoder",
+        "documentation": {}
+    },
+    {
+        "label": "BACKBONES",
+        "importPath": "zonos.backbone",
+        "description": "zonos.backbone",
+        "isExtraImport": true,
+        "detail": "zonos.backbone",
+        "documentation": {}
+    },
+    {
+        "label": "apply_delay_pattern",
+        "importPath": "zonos.codebook_pattern",
+        "description": "zonos.codebook_pattern",
+        "isExtraImport": true,
+        "detail": "zonos.codebook_pattern",
+        "documentation": {}
+    },
+    {
+        "label": "revert_delay_pattern",
+        "importPath": "zonos.codebook_pattern",
+        "description": "zonos.codebook_pattern",
+        "isExtraImport": true,
+        "detail": "zonos.codebook_pattern",
+        "documentation": {}
+    },
+    {
+        "label": "PrefixConditioner",
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "isExtraImport": true,
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "make_cond_dict",
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "isExtraImport": true,
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "supported_language_codes",
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "isExtraImport": true,
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "make_cond_dict",
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "isExtraImport": true,
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "supported_language_codes",
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "isExtraImport": true,
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "make_cond_dict",
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "isExtraImport": true,
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "sample_from_logits",
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "isExtraImport": true,
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "SpeakerEmbeddingLDA",
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "isExtraImport": true,
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "batch_generate_audio",
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "isExtraImport": true,
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "gradio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gradio",
+        "description": "gradio",
+        "detail": "gradio",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Zonos",
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "isExtraImport": true,
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_BACKBONE_CLS",
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "isExtraImport": true,
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "Zonos",
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "isExtraImport": true,
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_BACKBONE_CLS",
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "isExtraImport": true,
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "Zonos",
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "isExtraImport": true,
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"zonos\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"zonos\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"zonos\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"zonos\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"zonos\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "MambaSSMZonosBackbone",
+        "kind": 6,
+        "importPath": "zonos.backbone._mamba_ssm",
+        "description": "zonos.backbone._mamba_ssm",
+        "peekOfCode": "class MambaSSMZonosBackbone(nn.Module):\n    supported_architectures = [\"transformer\", \"hybrid\"]\n    def __init__(self, config: BackboneConfig):\n        super().__init__()\n        self.config = config\n        self.layers = nn.ModuleList(\n            [\n                create_block(\n                    d_model=config.d_model,\n                    d_intermediate=config.d_intermediate",
+        "detail": "zonos.backbone._mamba_ssm",
+        "documentation": {}
+    },
+    {
+        "label": "TorchZonosBackbone",
+        "kind": 6,
+        "importPath": "zonos.backbone._torch",
+        "description": "zonos.backbone._torch",
+        "peekOfCode": "class TorchZonosBackbone(nn.Module):\n    supported_architectures = [\"transformer\"]\n    freqs_cis: torch.Tensor\n    def __init__(self, config: BackboneConfig):\n        assert not config.ssm_cfg, \"This backbone implementation only supports the Transformer model.\"\n        super().__init__()\n        self.config = config\n        self.layers = nn.ModuleList(TransformerBlock(config, i) for i in range(config.n_layer))\n        self.norm_f = nn.LayerNorm(config.d_model, eps=config.norm_epsilon)\n    def allocate_inference_cache(self, batch_size: int, max_seqlen: int, dtype: torch.dtype = torch.bfloat16):",
+        "detail": "zonos.backbone._torch",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "kind": 6,
+        "importPath": "zonos.backbone._torch",
+        "description": "zonos.backbone._torch",
+        "peekOfCode": "class TransformerBlock(nn.Module):\n    def __init__(self, config: BackboneConfig, layer_idx: int) -> None:\n        super().__init__()\n        self.config = config\n        self.norm = nn.LayerNorm(config.d_model, eps=config.norm_epsilon)\n        self.mixer = Attention(config, layer_idx)\n        self.norm2 = nn.LayerNorm(config.d_model, eps=config.norm_epsilon)\n        self.mlp = FeedForward(config)\n        self.num_heads_kv = config.attn_cfg[\"num_heads_kv\"]\n        self.head_dim = config.d_model // config.attn_cfg[\"num_heads\"]",
+        "detail": "zonos.backbone._torch",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "zonos.backbone._torch",
+        "description": "zonos.backbone._torch",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, config: BackboneConfig, layer_idx: int):\n        super().__init__()\n        self.num_heads = config.attn_cfg[\"num_heads\"]\n        self.num_heads_kv = config.attn_cfg[\"num_heads_kv\"]\n        self.head_dim = config.d_model // self.num_heads\n        self.layer_idx = layer_idx\n        total_head_dim = (self.num_heads + 2 * self.num_heads_kv) * self.head_dim\n        self.in_proj = nn.Linear(config.d_model, total_head_dim, bias=False)\n        self.out_proj = nn.Linear(self.num_heads * self.head_dim, config.d_model, bias=False)",
+        "detail": "zonos.backbone._torch",
+        "documentation": {}
+    },
+    {
+        "label": "FeedForward",
+        "kind": 6,
+        "importPath": "zonos.backbone._torch",
+        "description": "zonos.backbone._torch",
+        "peekOfCode": "class FeedForward(nn.Module):\n    def __init__(self, config: BackboneConfig) -> None:\n        super().__init__()\n        self.fc1 = nn.Linear(config.d_model, 2 * config.attn_mlp_d_intermediate, bias=False)\n        self.fc2 = nn.Linear(config.attn_mlp_d_intermediate, config.d_model, bias=False)\n    def forward(self, x: torch.Tensor) -> torch.Tensor:\n        y, gate = self.fc1(x).chunk(2, dim=-1)\n        return self.fc2(y * F.silu(gate))",
+        "detail": "zonos.backbone._torch",
+        "documentation": {}
+    },
+    {
+        "label": "precompute_freqs_cis",
+        "kind": 2,
+        "importPath": "zonos.backbone._torch",
+        "description": "zonos.backbone._torch",
+        "peekOfCode": "def precompute_freqs_cis(seq_len: int, n_elem: int, base: float = 10000) -> torch.Tensor:\n    freqs = 1.0 / (base ** (torch.arange(0, n_elem, 2)[: (n_elem // 2)].float() / n_elem))\n    t = torch.arange(seq_len, device=freqs.device)\n    freqs = torch.outer(t, freqs)\n    freqs_cis = torch.polar(torch.ones_like(freqs), freqs)\n    cache = torch.stack([freqs_cis.real, freqs_cis.imag], dim=-1)\n    return cache\ndef apply_rotary_emb(x: torch.Tensor, freqs_cis: torch.Tensor) -> torch.Tensor:\n    xshaped = x.float().reshape(*x.shape[:-1], -1, 2)\n    freqs_cis = freqs_cis.view(-1, xshaped.size(1), 1, xshaped.size(3), 2)",
+        "detail": "zonos.backbone._torch",
+        "documentation": {}
+    },
+    {
+        "label": "apply_rotary_emb",
+        "kind": 2,
+        "importPath": "zonos.backbone._torch",
+        "description": "zonos.backbone._torch",
+        "peekOfCode": "def apply_rotary_emb(x: torch.Tensor, freqs_cis: torch.Tensor) -> torch.Tensor:\n    xshaped = x.float().reshape(*x.shape[:-1], -1, 2)\n    freqs_cis = freqs_cis.view(-1, xshaped.size(1), 1, xshaped.size(3), 2)\n    x_out2 = torch.stack(\n        [\n            xshaped[..., 0] * freqs_cis[..., 0] - xshaped[..., 1] * freqs_cis[..., 1],\n            xshaped[..., 1] * freqs_cis[..., 0] + xshaped[..., 0] * freqs_cis[..., 1],\n        ],\n        -1,\n    )",
+        "detail": "zonos.backbone._torch",
+        "documentation": {}
+    },
+    {
+        "label": "DACAutoencoder",
+        "kind": 6,
+        "importPath": "zonos.autoencoder",
+        "description": "zonos.autoencoder",
+        "peekOfCode": "class DACAutoencoder:\n    def __init__(self):\n        super().__init__()\n        self.dac = DacModel.from_pretrained(\"descript/dac_44khz\")\n        self.dac.eval().requires_grad_(False)\n        self.codebook_size = self.dac.config.codebook_size\n        self.num_codebooks = self.dac.quantizer.n_codebooks\n        self.sampling_rate = self.dac.config.sampling_rate\n    def preprocess(self, wav: torch.Tensor, sr: int) -> torch.Tensor:\n        wav = torchaudio.functional.resample(wav, sr, 44_100)",
+        "detail": "zonos.autoencoder",
+        "documentation": {}
+    },
+    {
+        "label": "apply_delay_pattern",
+        "kind": 2,
+        "importPath": "zonos.codebook_pattern",
+        "description": "zonos.codebook_pattern",
+        "peekOfCode": "def apply_delay_pattern(codes: torch.Tensor, mask_token: int):\n    codes = F.pad(codes, (0, codes.shape[1]), value=mask_token)\n    return torch.stack([codes[:, k].roll(k + 1) for k in range(codes.shape[1])], dim=1)\ndef revert_delay_pattern(codes: torch.Tensor):\n    _, n_q, seq_len = codes.shape\n    return torch.stack([codes[:, k, k + 1 : seq_len - n_q + k + 1] for k in range(n_q)], dim=1)",
+        "detail": "zonos.codebook_pattern",
+        "documentation": {}
+    },
+    {
+        "label": "revert_delay_pattern",
+        "kind": 2,
+        "importPath": "zonos.codebook_pattern",
+        "description": "zonos.codebook_pattern",
+        "peekOfCode": "def revert_delay_pattern(codes: torch.Tensor):\n    _, n_q, seq_len = codes.shape\n    return torch.stack([codes[:, k, k + 1 : seq_len - n_q + k + 1] for k in range(n_q)], dim=1)",
+        "detail": "zonos.codebook_pattern",
+        "documentation": {}
+    },
+    {
+        "label": "Conditioner",
+        "kind": 6,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "class Conditioner(nn.Module):\n    def __init__(\n        self,\n        output_dim: int,\n        name: str,\n        cond_dim: int | None = None,\n        projection: Literal[\"none\", \"linear\", \"mlp\"] = \"none\",\n        uncond_type: Literal[\"learned\", \"none\"] = \"none\",\n        **kwargs,\n    ):",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "EspeakPhonemeConditioner",
+        "kind": 6,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "class EspeakPhonemeConditioner(Conditioner):\n    def __init__(self, output_dim: int, **kwargs):\n        super().__init__(output_dim, **kwargs)\n        self.phoneme_embedder = nn.Embedding(len(SPECIAL_TOKEN_IDS) + len(symbols), output_dim)\n    def apply_cond(self, texts: list[str], languages: list[str]) -> torch.Tensor:\n        \"\"\"\n        Args:\n            texts: list of texts to convert to phonemes\n            languages: ISO 639-1 -or otherwise eSpeak compatible- language code\n        \"\"\"",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "FourierConditioner",
+        "kind": 6,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "class FourierConditioner(Conditioner):\n    def __init__(\n        self,\n        output_dim: int,\n        input_dim: int = 1,\n        std: float = 1.0,\n        min_val: float = 0.0,\n        max_val: float = 1.0,\n        **kwargs,\n    ):",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "IntegerConditioner",
+        "kind": 6,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "class IntegerConditioner(Conditioner):\n    def __init__(self, output_dim: int, min_val: int = 0, max_val: int = 512, **kwargs):\n        super().__init__(output_dim, **kwargs)\n        self.min_val = min_val\n        self.max_val = max_val\n        self.int_embedder = nn.Embedding(max_val - min_val + 1, output_dim)\n    def apply_cond(self, x: torch.Tensor) -> torch.Tensor:\n        assert x.shape[-1] == 1\n        return self.int_embedder(x.squeeze(-1) - self.min_val)  # [batch_size, seq_len, output_dim]\nclass PassthroughConditioner(Conditioner):",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "PassthroughConditioner",
+        "kind": 6,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "class PassthroughConditioner(Conditioner):\n    def __init__(self, output_dim: int, **kwargs):\n        super().__init__(output_dim, **kwargs)\n    def apply_cond(self, x: torch.Tensor) -> torch.Tensor:\n        assert x.shape[-1] == self.cond_dim\n        return x\n_cond_cls_map = {\n    \"PassthroughConditioner\": PassthroughConditioner,\n    \"EspeakPhonemeConditioner\": EspeakPhonemeConditioner,\n    \"FourierConditioner\": FourierConditioner,",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "PrefixConditioner",
+        "kind": 6,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "class PrefixConditioner(Conditioner):\n    def __init__(self, config: PrefixConditionerConfig, output_dim: int):\n        super().__init__(output_dim, \"prefix\", projection=config.projection)\n        self.conditioners = nn.ModuleList(build_conditioners(config.conditioners, output_dim))\n        self.norm = nn.LayerNorm(output_dim)\n        self.required_keys = {c.name for c in self.conditioners if c.uncond_vector is None}\n    def forward(self, cond_dict: dict) -> torch.Tensor:\n        if not set(cond_dict).issuperset(self.required_keys):\n            raise ValueError(f\"Missing required keys: {self.required_keys - set(cond_dict)}\")\n        conds = []",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_numbers",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def normalize_numbers(text: str) -> str:\n    text = re.sub(_comma_number_re, _remove_commas, text)\n    text = re.sub(_pounds_re, r\"\\1 pounds\", text)\n    text = re.sub(_dollars_re, _expand_dollars, text)\n    text = re.sub(_decimal_number_re, _expand_decimal_point, text)\n    text = re.sub(_ordinal_re, _expand_ordinal, text)\n    text = re.sub(_number_re, _expand_number, text)\n    return text\n# --- Number normalization code end ---\nPAD_ID, UNK_ID, BOS_ID, EOS_ID = 0, 1, 2, 3",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "get_symbol_ids",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def get_symbol_ids(text: str) -> list[int]:\n    return list(map(_get_symbol_id, text))\ndef tokenize_phonemes(phonemes: list[str]) -> tuple[torch.Tensor, list[int]]:\n    phoneme_ids = [[BOS_ID, *get_symbol_ids(phonemes), EOS_ID] for phonemes in phonemes]\n    lengths = list(map(len, phoneme_ids))\n    longest = max(lengths)\n    phoneme_ids = [[PAD_ID] * (longest - len(ids)) + ids for ids in phoneme_ids]\n    return torch.tensor(phoneme_ids), lengths\ndef normalize_jp_text(text: str, tokenizer=Dictionary(dict=\"full\").create()) -> str:\n    text = unicodedata.normalize(\"NFKC\", text)",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "tokenize_phonemes",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def tokenize_phonemes(phonemes: list[str]) -> tuple[torch.Tensor, list[int]]:\n    phoneme_ids = [[BOS_ID, *get_symbol_ids(phonemes), EOS_ID] for phonemes in phonemes]\n    lengths = list(map(len, phoneme_ids))\n    longest = max(lengths)\n    phoneme_ids = [[PAD_ID] * (longest - len(ids)) + ids for ids in phoneme_ids]\n    return torch.tensor(phoneme_ids), lengths\ndef normalize_jp_text(text: str, tokenizer=Dictionary(dict=\"full\").create()) -> str:\n    text = unicodedata.normalize(\"NFKC\", text)\n    text = re.sub(r\"\\d+\", lambda m: number2kanji(int(m[0])), text)\n    final_text = \" \".join([x.reading_form() for x in tokenizer.tokenize(text, SplitMode.A)])",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_jp_text",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def normalize_jp_text(text: str, tokenizer=Dictionary(dict=\"full\").create()) -> str:\n    text = unicodedata.normalize(\"NFKC\", text)\n    text = re.sub(r\"\\d+\", lambda m: number2kanji(int(m[0])), text)\n    final_text = \" \".join([x.reading_form() for x in tokenizer.tokenize(text, SplitMode.A)])\n    return final_text\ndef clean(texts: list[str], languages: list[str]) -> list[str]:\n    texts_out = []\n    for text, language in zip(texts, languages):\n        if \"ja\" in language:\n            text = normalize_jp_text(text)",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "clean",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def clean(texts: list[str], languages: list[str]) -> list[str]:\n    texts_out = []\n    for text, language in zip(texts, languages):\n        if \"ja\" in language:\n            text = normalize_jp_text(text)\n        else:\n            text = normalize_numbers(text)\n        texts_out.append(text)\n    return texts_out\n@cache",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "get_backend",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def get_backend(language: str) -> \"EspeakBackend\":\n    import logging\n    from phonemizer.backend import EspeakBackend\n    logger = logging.getLogger(\"phonemizer\")\n    backend = EspeakBackend(\n        language,\n        preserve_punctuation=True,\n        with_stress=True,\n        punctuation_marks=_punctuation,\n        logger=logger,",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "phonemize",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def phonemize(texts: list[str], languages: list[str]) -> list[str]:\n    texts = clean(texts, languages)\n    batch_phonemes = []\n    for text, language in zip(texts, languages):\n        backend = get_backend(language)\n        phonemes = backend.phonemize([text], strip=True)\n        batch_phonemes.append(phonemes[0])\n    return batch_phonemes\nclass EspeakPhonemeConditioner(Conditioner):\n    def __init__(self, output_dim: int, **kwargs):",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "build_conditioners",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def build_conditioners(conditioners: list[dict], output_dim: int) -> list[Conditioner]:\n    return [_cond_cls_map[config[\"type\"]](output_dim, **config) for config in conditioners]\nclass PrefixConditioner(Conditioner):\n    def __init__(self, config: PrefixConditionerConfig, output_dim: int):\n        super().__init__(output_dim, \"prefix\", projection=config.projection)\n        self.conditioners = nn.ModuleList(build_conditioners(config.conditioners, output_dim))\n        self.norm = nn.LayerNorm(output_dim)\n        self.required_keys = {c.name for c in self.conditioners if c.uncond_vector is None}\n    def forward(self, cond_dict: dict) -> torch.Tensor:\n        if not set(cond_dict).issuperset(self.required_keys):",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "make_cond_dict",
+        "kind": 2,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "def make_cond_dict(\n    text: str = \"It would be nice to have time for testing, indeed.\",\n    language: str = \"en-us\",\n    speaker: torch.Tensor | None = None,\n    # Emotion vector from 0.0 to 1.0\n    #   Is entangled with pitch_std because more emotion => more pitch variation\n    #                     VQScore and DNSMOS because they favor neutral speech\n    #\n    #                       Happiness, Sadness, Disgust, Fear, Surprise, Anger, Other, Neutral\n    emotion: list[float] = [0.3077, 0.0256, 0.0256, 0.0256, 0.0256, 0.0256, 0.2564, 0.3077],",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_inflect",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_inflect = inflect.engine()\n_comma_number_re = re.compile(r\"([0-9][0-9\\,]+[0-9])\")\n_decimal_number_re = re.compile(r\"([0-9]+\\.[0-9]+)\")\n_pounds_re = re.compile(r\"£([0-9\\,]*[0-9]+)\")\n_dollars_re = re.compile(r\"\\$([0-9\\.\\,]*[0-9]+)\")\n_ordinal_re = re.compile(r\"[0-9]+(st|nd|rd|th)\")\n_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_comma_number_re",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_comma_number_re = re.compile(r\"([0-9][0-9\\,]+[0-9])\")\n_decimal_number_re = re.compile(r\"([0-9]+\\.[0-9]+)\")\n_pounds_re = re.compile(r\"£([0-9\\,]*[0-9]+)\")\n_dollars_re = re.compile(r\"\\$([0-9\\.\\,]*[0-9]+)\")\n_ordinal_re = re.compile(r\"[0-9]+(st|nd|rd|th)\")\n_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:\n    return m.group(1).replace(\".\", \" point \")",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_decimal_number_re",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_decimal_number_re = re.compile(r\"([0-9]+\\.[0-9]+)\")\n_pounds_re = re.compile(r\"£([0-9\\,]*[0-9]+)\")\n_dollars_re = re.compile(r\"\\$([0-9\\.\\,]*[0-9]+)\")\n_ordinal_re = re.compile(r\"[0-9]+(st|nd|rd|th)\")\n_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:\n    return m.group(1).replace(\".\", \" point \")\ndef _expand_dollars(m: re.Match) -> str:",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_pounds_re",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_pounds_re = re.compile(r\"£([0-9\\,]*[0-9]+)\")\n_dollars_re = re.compile(r\"\\$([0-9\\.\\,]*[0-9]+)\")\n_ordinal_re = re.compile(r\"[0-9]+(st|nd|rd|th)\")\n_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:\n    return m.group(1).replace(\".\", \" point \")\ndef _expand_dollars(m: re.Match) -> str:\n    match = m.group(1)",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_dollars_re",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_dollars_re = re.compile(r\"\\$([0-9\\.\\,]*[0-9]+)\")\n_ordinal_re = re.compile(r\"[0-9]+(st|nd|rd|th)\")\n_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:\n    return m.group(1).replace(\".\", \" point \")\ndef _expand_dollars(m: re.Match) -> str:\n    match = m.group(1)\n    parts = match.split(\".\")",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_ordinal_re",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_ordinal_re = re.compile(r\"[0-9]+(st|nd|rd|th)\")\n_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:\n    return m.group(1).replace(\".\", \" point \")\ndef _expand_dollars(m: re.Match) -> str:\n    match = m.group(1)\n    parts = match.split(\".\")\n    if len(parts) > 2:",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_number_re",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_number_re = re.compile(r\"[0-9]+\")\ndef _remove_commas(m: re.Match) -> str:\n    return m.group(1).replace(\",\", \"\")\ndef _expand_decimal_point(m: re.Match) -> str:\n    return m.group(1).replace(\".\", \" point \")\ndef _expand_dollars(m: re.Match) -> str:\n    match = m.group(1)\n    parts = match.split(\".\")\n    if len(parts) > 2:\n        return match + \" dollars\"  # Unexpected format",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "SPECIAL_TOKEN_IDS",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "SPECIAL_TOKEN_IDS = [PAD_ID, UNK_ID, BOS_ID, EOS_ID]\n_punctuation = ';:,.!?¡¿—…\"«»“”() *~-/\\\\&'\n_letters = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\"\n_letters_ipa = (\n    \"ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ\"\n)\nsymbols = [*_punctuation, *_letters, *_letters_ipa]\n_symbol_to_id = {s: i for i, s in enumerate(symbols, start=len(SPECIAL_TOKEN_IDS))}\ndef _get_symbol_id(s: str) -> int:\n    return _symbol_to_id.get(s, 1)",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_punctuation",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_punctuation = ';:,.!?¡¿—…\"«»“”() *~-/\\\\&'\n_letters = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\"\n_letters_ipa = (\n    \"ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ\"\n)\nsymbols = [*_punctuation, *_letters, *_letters_ipa]\n_symbol_to_id = {s: i for i, s in enumerate(symbols, start=len(SPECIAL_TOKEN_IDS))}\ndef _get_symbol_id(s: str) -> int:\n    return _symbol_to_id.get(s, 1)\ndef get_symbol_ids(text: str) -> list[int]:",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_letters",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_letters = \"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz\"\n_letters_ipa = (\n    \"ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ\"\n)\nsymbols = [*_punctuation, *_letters, *_letters_ipa]\n_symbol_to_id = {s: i for i, s in enumerate(symbols, start=len(SPECIAL_TOKEN_IDS))}\ndef _get_symbol_id(s: str) -> int:\n    return _symbol_to_id.get(s, 1)\ndef get_symbol_ids(text: str) -> list[int]:\n    return list(map(_get_symbol_id, text))",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_letters_ipa",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_letters_ipa = (\n    \"ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ\"\n)\nsymbols = [*_punctuation, *_letters, *_letters_ipa]\n_symbol_to_id = {s: i for i, s in enumerate(symbols, start=len(SPECIAL_TOKEN_IDS))}\ndef _get_symbol_id(s: str) -> int:\n    return _symbol_to_id.get(s, 1)\ndef get_symbol_ids(text: str) -> list[int]:\n    return list(map(_get_symbol_id, text))\ndef tokenize_phonemes(phonemes: list[str]) -> tuple[torch.Tensor, list[int]]:",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "symbols",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "symbols = [*_punctuation, *_letters, *_letters_ipa]\n_symbol_to_id = {s: i for i, s in enumerate(symbols, start=len(SPECIAL_TOKEN_IDS))}\ndef _get_symbol_id(s: str) -> int:\n    return _symbol_to_id.get(s, 1)\ndef get_symbol_ids(text: str) -> list[int]:\n    return list(map(_get_symbol_id, text))\ndef tokenize_phonemes(phonemes: list[str]) -> tuple[torch.Tensor, list[int]]:\n    phoneme_ids = [[BOS_ID, *get_symbol_ids(phonemes), EOS_ID] for phonemes in phonemes]\n    lengths = list(map(len, phoneme_ids))\n    longest = max(lengths)",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_symbol_to_id",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_symbol_to_id = {s: i for i, s in enumerate(symbols, start=len(SPECIAL_TOKEN_IDS))}\ndef _get_symbol_id(s: str) -> int:\n    return _symbol_to_id.get(s, 1)\ndef get_symbol_ids(text: str) -> list[int]:\n    return list(map(_get_symbol_id, text))\ndef tokenize_phonemes(phonemes: list[str]) -> tuple[torch.Tensor, list[int]]:\n    phoneme_ids = [[BOS_ID, *get_symbol_ids(phonemes), EOS_ID] for phonemes in phonemes]\n    lengths = list(map(len, phoneme_ids))\n    longest = max(lengths)\n    phoneme_ids = [[PAD_ID] * (longest - len(ids)) + ids for ids in phoneme_ids]",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "_cond_cls_map",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "_cond_cls_map = {\n    \"PassthroughConditioner\": PassthroughConditioner,\n    \"EspeakPhonemeConditioner\": EspeakPhonemeConditioner,\n    \"FourierConditioner\": FourierConditioner,\n    \"IntegerConditioner\": IntegerConditioner,\n}\ndef build_conditioners(conditioners: list[dict], output_dim: int) -> list[Conditioner]:\n    return [_cond_cls_map[config[\"type\"]](output_dim, **config) for config in conditioners]\nclass PrefixConditioner(Conditioner):\n    def __init__(self, config: PrefixConditionerConfig, output_dim: int):",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "supported_language_codes",
+        "kind": 5,
+        "importPath": "zonos.conditioning",
+        "description": "zonos.conditioning",
+        "peekOfCode": "supported_language_codes = [\n    'af', 'am', 'an', 'ar', 'as', 'az', 'ba', 'bg', 'bn', 'bpy', 'bs', 'ca', 'cmn',\n    'cs', 'cy', 'da', 'de', 'el', 'en-029', 'en-gb', 'en-gb-scotland', 'en-gb-x-gbclan',\n    'en-gb-x-gbcwmd', 'en-gb-x-rp', 'en-us', 'eo', 'es', 'es-419', 'et', 'eu', 'fa',\n    'fa-latn', 'fi', 'fr-be', 'fr-ch', 'fr-fr', 'ga', 'gd', 'gn', 'grc', 'gu', 'hak',\n    'hi', 'hr', 'ht', 'hu', 'hy', 'hyw', 'ia', 'id', 'is', 'it', 'ja', 'jbo', 'ka',\n    'kk', 'kl', 'kn', 'ko', 'kok', 'ku', 'ky', 'la', 'lfn', 'lt', 'lv', 'mi', 'mk',\n    'ml', 'mr', 'ms', 'mt', 'my', 'nb', 'nci', 'ne', 'nl', 'om', 'or', 'pa', 'pap',\n    'pl', 'pt', 'pt-br', 'py', 'quc', 'ro', 'ru', 'ru-lv', 'sd', 'shn', 'si', 'sk',\n    'sl', 'sq', 'sr', 'sv', 'sw', 'ta', 'te', 'tn', 'tr', 'tt', 'ur', 'uz', 'vi',",
+        "detail": "zonos.conditioning",
+        "documentation": {}
+    },
+    {
+        "label": "InferenceParams",
+        "kind": 6,
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "peekOfCode": "class InferenceParams:\n    \"\"\"Inference parameters that are passed to the main model in order\n    to efficienly calculate and store the context during inference.\"\"\"\n    max_seqlen: int\n    max_batch_size: int\n    seqlen_offset: int = 0\n    batch_size_offset: int = 0\n    key_value_memory_dict: dict = field(default_factory=dict)\n    lengths_per_sample: torch.Tensor | None = None\n    def reset(self, max_seqlen, max_batch_size):",
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "BackboneConfig",
+        "kind": 6,
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "peekOfCode": "class BackboneConfig:\n    d_model: int = 1024\n    d_intermediate: int = 0\n    attn_mlp_d_intermediate: int = 0\n    n_layer: int = 16\n    ssm_cfg: dict = field(default_factory=dict)\n    attn_layer_idx: list = field(default_factory=list)\n    attn_cfg: dict = field(default_factory=dict)\n    rms_norm: bool = False\n    residual_in_fp32: bool = False",
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "PrefixConditionerConfig",
+        "kind": 6,
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "peekOfCode": "class PrefixConditionerConfig:\n    conditioners: list[dict]\n    projection: Literal[\"none\", \"linear\", \"mlp\"]\n@dataclass\nclass ZonosConfig:\n    backbone: BackboneConfig\n    prefix_conditioner: PrefixConditionerConfig\n    eos_token_id: int = 1024\n    masked_token_id: int = 1025\n    pad_vocab_to_multiple_of: int = 8",
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "ZonosConfig",
+        "kind": 6,
+        "importPath": "zonos.config",
+        "description": "zonos.config",
+        "peekOfCode": "class ZonosConfig:\n    backbone: BackboneConfig\n    prefix_conditioner: PrefixConditionerConfig\n    eos_token_id: int = 1024\n    masked_token_id: int = 1025\n    pad_vocab_to_multiple_of: int = 8\n    @classmethod\n    def from_dict(cls, d: dict) -> \"ZonosConfig\":\n        d = d.copy()\n        backbone_config = BackboneConfig(**d.pop(\"backbone\"))",
+        "detail": "zonos.config",
+        "documentation": {}
+    },
+    {
+        "label": "Zonos",
+        "kind": 6,
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "peekOfCode": "class Zonos(nn.Module):\n    def __init__(self, config: ZonosConfig, backbone_cls=DEFAULT_BACKBONE_CLS):\n        super().__init__()\n        self.config = config\n        dim = config.backbone.d_model\n        self.eos_token_id = config.eos_token_id\n        self.masked_token_id = config.masked_token_id\n        self.autoencoder = DACAutoencoder()\n        self.backbone = backbone_cls(config.backbone)\n        self.prefix_conditioner = PrefixConditioner(config.prefix_conditioner, dim)",
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_BACKBONE_CLS",
+        "kind": 5,
+        "importPath": "zonos.model",
+        "description": "zonos.model",
+        "peekOfCode": "DEFAULT_BACKBONE_CLS = next(iter(BACKBONES.values()))\nclass Zonos(nn.Module):\n    def __init__(self, config: ZonosConfig, backbone_cls=DEFAULT_BACKBONE_CLS):\n        super().__init__()\n        self.config = config\n        dim = config.backbone.d_model\n        self.eos_token_id = config.eos_token_id\n        self.masked_token_id = config.masked_token_id\n        self.autoencoder = DACAutoencoder()\n        self.backbone = backbone_cls(config.backbone)",
+        "detail": "zonos.model",
+        "documentation": {}
+    },
+    {
+        "label": "multinomial",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def multinomial(input: torch.Tensor, num_samples: int, replacement=False, *, generator=None):\n    \"\"\"torch.multinomial with arbitrary number of dimensions, and number of candidates on the last dimension.\n    Args:\n        input (torch.Tensor): The input tensor containing probabilities.\n        num_samples (int): Number of samples to draw.\n        replacement (bool): Whether to draw with replacement or not.\n    Keywords args:\n        generator (torch.Generator): A pseudorandom number generator for sampling.\n    Returns:\n        torch.Tensor: Last dimension contains num_samples indices",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "apply_unified",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def apply_unified(probs: torch.Tensor, linear: float, conf: float, quad: float) -> torch.Tensor:\n    \"\"\"Sample next token using unified sampling approach that combines linear scaling, confidence, and quadratic terms.\n    Args:\n        probs (torch.Tensor): Input probabilities with token candidates on the last dimension.\n        linear (float): Linear scaling factor applied to log probabilities.\n        conf (float): Confidence factor that scales the entropy term.\n        quad (float): Quadratic penalty factor applied to squared log probabilities.\n    Returns:\n        torch.Tensor: Modified probability distribution after applying unified sampling.\n    \"\"\"",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "apply_top_k",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def apply_top_k(\n    probs: torch.Tensor,\n    k: int,\n) -> torch.Tensor:\n    \"\"\"Sample next token from top K values along the last dimension of the input probs tensor.\n    Args:\n        probs (torch.Tensor): Input probabilities with token candidates on the last dimension.\n        k (int): The k in “top-k”.\n    Returns:\n        torch.Tensor: Sampled tokens.",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "apply_top_p",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def apply_top_p(probs: torch.Tensor, p: float) -> torch.Tensor:\n    \"\"\"Sample next token from top P probabilities along the last dimension of the input probs tensor.\n    Args:\n        probs (torch.Tensor): Input probabilities with token candidates on the last dimension.\n        p (int): The p in “top-p”.\n    Returns:\n        torch.Tensor: Sampled tokens.\n    \"\"\"\n    probs_sort, probs_idx = torch.sort(probs, dim=-1, descending=True)\n    probs_sum = torch.cumsum(probs_sort, dim=-1)",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "apply_min_p",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def apply_min_p(probs: torch.Tensor, min_p: float) -> torch.Tensor:\n    \"\"\"Sample next token using min-p sampling.\n    Args:\n        scores (torch.FloatTensor): Input logits with token candidates on the last dimension.\n        min_p (float): Minimum token probability, scaled by the probability of the most likely token.\n                       Must be between 0 and 1. Typical values are in the 0.01-0.2 range.\n    Returns:\n        torch.Tensor: Sampled tokens.\n    \"\"\"\n    top_probs, _ = probs.max(dim=-1, keepdim=True)",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "modify_logit_for_repetition_penalty",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def modify_logit_for_repetition_penalty(\n    logits: torch.Tensor,\n    generated_tokens: torch.Tensor,\n    repetition_penalty: float,\n    repetition_penalty_window: int,\n):\n    \"\"\"See https://arxiv.org/abs/1909.05858\n    Apply repetition penalty over a sliding window of the last `repetition_penalty_window` tokens.\n    logits: (batch_size, n_codebooks, vocab_size)\n    generated_tokens: (batch_size, n_codebooks, seq_len)",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "sample_from_logits",
+        "kind": 2,
+        "importPath": "zonos.sampling",
+        "description": "zonos.sampling",
+        "peekOfCode": "def sample_from_logits(\n    logits: torch.Tensor,\n    temperature: float = 1.0,\n    top_p: float = 0.0,\n    top_k: int = 0,\n    min_p: float = 0.0,\n    linear: float = 0.0,\n    conf: float = 0.0,\n    quad: float = 0.0,\n    generated_tokens: torch.Tensor | None = None,",
+        "detail": "zonos.sampling",
+        "documentation": {}
+    },
+    {
+        "label": "logFbankCal",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class logFbankCal(nn.Module):\n    def __init__(\n        self,\n        sample_rate: int = 16_000,\n        n_fft: int = 512,\n        win_length: float = 0.025,\n        hop_length: float = 0.01,\n        n_mels: int = 80,\n    ):\n        super().__init__()",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "ASP",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class ASP(nn.Module):\n    # Attentive statistics pooling\n    def __init__(self, in_planes, acoustic_dim):\n        super(ASP, self).__init__()\n        outmap_size = int(acoustic_dim / 8)\n        self.out_dim = in_planes * 8 * outmap_size * 2\n        self.attention = nn.Sequential(\n            nn.Conv1d(in_planes * 8 * outmap_size, 128, kernel_size=1),\n            nn.ReLU(),\n            nn.BatchNorm1d(128),",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "SimAMBasicBlock",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class SimAMBasicBlock(nn.Module):\n    expansion = 1\n    def __init__(self, ConvLayer, NormLayer, in_planes, planes, stride=1, block_id=1):\n        super(SimAMBasicBlock, self).__init__()\n        self.conv1 = ConvLayer(in_planes, planes, kernel_size=3, stride=stride, padding=1, bias=False)\n        self.bn1 = NormLayer(planes)\n        self.conv2 = ConvLayer(planes, planes, kernel_size=3, stride=1, padding=1, bias=False)\n        self.bn2 = NormLayer(planes)\n        self.relu = nn.ReLU(inplace=True)\n        self.sigmoid = nn.Sigmoid()",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "BasicBlock",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class BasicBlock(nn.Module):\n    expansion = 1\n    def __init__(self, ConvLayer, NormLayer, in_planes, planes, stride=1, block_id=1):\n        super(BasicBlock, self).__init__()\n        self.conv1 = ConvLayer(in_planes, planes, kernel_size=3, stride=stride, padding=1, bias=False)\n        self.bn1 = NormLayer(planes)\n        self.conv2 = ConvLayer(planes, planes, kernel_size=3, stride=1, padding=1, bias=False)\n        self.bn2 = NormLayer(planes)\n        self.relu = nn.ReLU(inplace=True)\n        self.downsample = nn.Sequential()",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "Bottleneck",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class Bottleneck(nn.Module):\n    expansion = 4\n    def __init__(self, ConvLayer, NormLayer, in_planes, planes, stride=1, block_id=1):\n        super(Bottleneck, self).__init__()\n        self.conv1 = nn.Conv2d(in_planes, planes, kernel_size=1, bias=False)\n        self.bn1 = nn.BatchNorm2d(planes)\n        self.conv2 = nn.Conv2d(planes, planes, kernel_size=3, stride=stride, padding=1, bias=False)\n        self.bn2 = nn.BatchNorm2d(planes)\n        self.conv3 = nn.Conv2d(planes, self.expansion * planes, kernel_size=1, bias=False)\n        self.bn3 = nn.BatchNorm2d(self.expansion * planes)",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class ResNet(nn.Module):\n    def __init__(self, in_planes, block, num_blocks, in_ch=1, feat_dim=\"2d\", **kwargs):\n        super(ResNet, self).__init__()\n        if feat_dim == \"1d\":\n            self.NormLayer = nn.BatchNorm1d\n            self.ConvLayer = nn.Conv1d\n        elif feat_dim == \"2d\":\n            self.NormLayer = nn.BatchNorm2d\n            self.ConvLayer = nn.Conv2d\n        elif feat_dim == \"3d\":",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet293_based",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class ResNet293_based(nn.Module):\n    def __init__(\n        self,\n        in_planes: int = 64,\n        embd_dim: int = 256,\n        acoustic_dim: int = 80,\n        featCal=None,\n        dropout: float = 0,\n        **kwargs,\n    ):",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "SEModule",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class SEModule(nn.Module):\n    def __init__(self, channels, bottleneck=128):\n        super(SEModule, self).__init__()\n        self.se = nn.Sequential(\n            nn.AdaptiveAvgPool1d(1),\n            nn.Conv1d(channels, bottleneck, kernel_size=1, padding=0),\n            nn.ReLU(),\n            # nn.BatchNorm1d(bottleneck), # Removed\n            nn.Conv1d(bottleneck, channels, kernel_size=1, padding=0),\n            nn.Sigmoid(),",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "Bottle2neck",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class Bottle2neck(nn.Module):\n    def __init__(self, inplanes, planes, kernel_size=None, dilation=None, scale=8):\n        super(Bottle2neck, self).__init__()\n        width = int(math.floor(planes / scale))\n        self.conv1 = nn.Conv1d(inplanes, width * scale, kernel_size=1)\n        self.bn1 = nn.BatchNorm1d(width * scale)\n        self.nums = scale - 1\n        convs = []\n        bns = []\n        num_pad = math.floor(kernel_size / 2) * dilation",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "ECAPA_TDNN",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class ECAPA_TDNN(nn.Module):\n    def __init__(self, C, featCal):\n        super(ECAPA_TDNN, self).__init__()\n        self.featCal = featCal\n        self.conv1 = nn.Conv1d(80, C, kernel_size=5, stride=1, padding=2)\n        self.relu = nn.ReLU()\n        self.bn1 = nn.BatchNorm1d(C)\n        self.layer1 = Bottle2neck(C, C, kernel_size=3, dilation=2, scale=8)\n        self.layer2 = Bottle2neck(C, C, kernel_size=3, dilation=3, scale=8)\n        self.layer3 = Bottle2neck(C, C, kernel_size=3, dilation=4, scale=8)",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "SpeakerEmbedding",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class SpeakerEmbedding(nn.Module):\n    def __init__(self, ckpt_path: str = \"ResNet293_SimAM_ASP_base.pt\", device: str = DEFAULT_DEVICE):\n        super().__init__()\n        self.device = device\n        with torch.device(device):\n            self.model = ResNet293_based()\n            state_dict = torch.load(ckpt_path, weights_only=True, mmap=True, map_location=\"cpu\")\n            self.model.load_state_dict(state_dict)\n            self.model.featCal = logFbankCal()\n        self.requires_grad_(False).eval()",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "SpeakerEmbeddingLDA",
+        "kind": 6,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "class SpeakerEmbeddingLDA(nn.Module):\n    def __init__(self, device: str = DEFAULT_DEVICE):\n        super().__init__()\n        spk_model_path = hf_hub_download(\n            repo_id=\"Zyphra/Zonos-v0.1-speaker-embedding\",\n            filename=\"ResNet293_SimAM_ASP_base.pt\",\n        )\n        lda_spk_model_path = hf_hub_download(\n            repo_id=\"Zyphra/Zonos-v0.1-speaker-embedding\",\n            filename=\"ResNet293_SimAM_ASP_base_LDA-128.pt\",",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet293",
+        "kind": 2,
+        "importPath": "zonos.speaker_cloning",
+        "description": "zonos.speaker_cloning",
+        "peekOfCode": "def ResNet293(in_planes: int, **kwargs):\n    return ResNet(in_planes, SimAMBasicBlock, [10, 20, 64, 3], **kwargs)\nclass ResNet293_based(nn.Module):\n    def __init__(\n        self,\n        in_planes: int = 64,\n        embd_dim: int = 256,\n        acoustic_dim: int = 80,\n        featCal=None,\n        dropout: float = 0,",
+        "detail": "zonos.speaker_cloning",
+        "documentation": {}
+    },
+    {
+        "label": "find_multiple",
+        "kind": 2,
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "peekOfCode": "def find_multiple(n: int, k: int) -> int:\n    if k == 0 or n % k == 0:\n        return n\n    return n + k - (n % k)\ndef pad_weight_(w: nn.Embedding | nn.Linear, multiple: int):\n    \"\"\"Pad the weight of an embedding or linear layer to a multiple of `multiple`.\"\"\"\n    if isinstance(w, nn.Embedding):\n        # Pad input dim\n        if w.weight.shape[1] % multiple == 0:\n            return",
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "pad_weight_",
+        "kind": 2,
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "peekOfCode": "def pad_weight_(w: nn.Embedding | nn.Linear, multiple: int):\n    \"\"\"Pad the weight of an embedding or linear layer to a multiple of `multiple`.\"\"\"\n    if isinstance(w, nn.Embedding):\n        # Pad input dim\n        if w.weight.shape[1] % multiple == 0:\n            return\n        w.weight.data = F.pad(w.weight.data, (0, 0, 0, w.weight.shape[1] % multiple))\n        w.num_embeddings, w.embedding_dim = w.weight.shape\n    elif isinstance(w, nn.Linear):\n        # Pad output dim",
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_device",
+        "kind": 2,
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "peekOfCode": "def get_device() -> torch.device:\n    if torch.cuda.is_available():\n        return torch.device(torch.cuda.current_device())\n    # MPS breaks for whatever reason. Uncomment when it's working.\n    # if torch.mps.is_available():\n    #     return torch.device(\"mps\")\n    return torch.device(\"cpu\")\nDEFAULT_DEVICE = get_device()",
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_DEVICE",
+        "kind": 5,
+        "importPath": "zonos.utils",
+        "description": "zonos.utils",
+        "peekOfCode": "DEFAULT_DEVICE = get_device()",
+        "detail": "zonos.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_model_if_needed",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def load_model_if_needed(model_choice: str):\n    global CURRENT_MODEL_TYPE, CURRENT_MODEL\n    if CURRENT_MODEL_TYPE != model_choice:\n        if CURRENT_MODEL is not None:\n            del CURRENT_MODEL\n            torch.cuda.empty_cache()\n        print(f\"Loading {model_choice} model...\")\n        CURRENT_MODEL = Zonos.from_pretrained(model_choice, device=device)\n        CURRENT_MODEL.requires_grad_(False).eval()\n        CURRENT_MODEL_TYPE = model_choice",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "update_ui",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def update_ui(model_choice):\n    \"\"\"\n    Dynamically show/hide UI elements based on the model's conditioners.\n    We do NOT display 'language_id' or 'ctc_loss' even if they exist in the model.\n    \"\"\"\n    model = load_model_if_needed(model_choice)\n    cond_names = [c.name for c in model.prefix_conditioner.conditioners]\n    print(\"Conditioners in this model:\", cond_names)\n    text_update = gr.update(visible=(\"espeak\" in cond_names))\n    language_update = gr.update(visible=(\"espeak\" in cond_names))",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "generate_audio",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def generate_audio(\n    model_choice,\n    text,\n    language,\n    speaker_audio,\n    prefix_audio,\n    e1,\n    e2,\n    e3,\n    e4,",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "batch_generate_audio",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def batch_generate_audio(\n    model_choice: str,\n    text_dir: str,\n    output_dir: str,\n    language: str = \"en-us\",\n    speaker_audio_path: str = None,\n    cfg_scale: float = 2.0,\n    min_p: float = 0.15,\n    seed: int = 420,\n    # Fixed emotion parameters matching Gradio defaults",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "divide_string",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def divide_string(input_string):\n    \"\"\"\n    Divides a string into two parts.\n    - Splits on paragraphs (double newlines) if present.\n    - Otherwise, splits while keeping sentences intact.\n    :param input_string: The string to be divided.\n    :return: A tuple containing two parts (part1, part2).\n    \"\"\"\n    # Check if the input contains paragraphs (double newlines)\n    paragraphs = input_string.split(\"\\n\\n\")",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "modify_filename",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def modify_filename(file_name, segment):\n    \"\"\"\n    Modifies the given file name by replacing the sixth character with the given segment number.\n    :param file_name: The original file name (e.g., \"002341_22_Another_File\").\n    :param segment: The segment number (int) to replace the sixth character.\n    :return: The modified file name as a string.\n    \"\"\"\n    if len(file_name) < 6:\n        raise ValueError(\"File name must have at least six characters.\")\n    # Replace only the sixth character with the segment and return the result",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "create_silent_wav",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def create_silent_wav(duration_ms, file_path, sampling_rate=16000):\n    \"\"\"\n    Creates a silent WAV file with the specified duration and saves it to the given file path.\n    :param duration_ms: Duration of the silent audio in milliseconds.\n    :param file_path: Path to save the silent WAV file.\n    :param sampling_rate: Sampling rate of the audio in Hz (default: 16000).\n    \"\"\"\n    # Calculate the number of samples\n    num_samples = int((duration_ms / 1000) * sampling_rate)\n    # Create a silent audio tensor (1 channel, num_samples)",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "build_interface",
+        "kind": 2,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "def build_interface():\n    supported_models = []\n    if \"transformer\" in ZonosBackbone.supported_architectures:\n        supported_models.append(\"Zyphra/Zonos-v0.1-transformer\")\n    if \"hybrid\" in ZonosBackbone.supported_architectures:\n        supported_models.append(\"Zyphra/Zonos-v0.1-hybrid\")\n    else:\n        print(\n            \"| The current ZonosBackbone does not support the hybrid architecture, meaning only the transformer model will be available in the model selector.\\n\"\n            \"| This probably means the mamba-ssm library has not been installed.\"",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_MODEL_TYPE",
+        "kind": 5,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "CURRENT_MODEL_TYPE = None\nCURRENT_MODEL = None\nSPEAKER_EMBEDDING = None\nSPEAKER_AUDIO_PATH = None\ndef load_model_if_needed(model_choice: str):\n    global CURRENT_MODEL_TYPE, CURRENT_MODEL\n    if CURRENT_MODEL_TYPE != model_choice:\n        if CURRENT_MODEL is not None:\n            del CURRENT_MODEL\n            torch.cuda.empty_cache()",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_MODEL",
+        "kind": 5,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "CURRENT_MODEL = None\nSPEAKER_EMBEDDING = None\nSPEAKER_AUDIO_PATH = None\ndef load_model_if_needed(model_choice: str):\n    global CURRENT_MODEL_TYPE, CURRENT_MODEL\n    if CURRENT_MODEL_TYPE != model_choice:\n        if CURRENT_MODEL is not None:\n            del CURRENT_MODEL\n            torch.cuda.empty_cache()\n        print(f\"Loading {model_choice} model...\")",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SPEAKER_EMBEDDING",
+        "kind": 5,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "SPEAKER_EMBEDDING = None\nSPEAKER_AUDIO_PATH = None\ndef load_model_if_needed(model_choice: str):\n    global CURRENT_MODEL_TYPE, CURRENT_MODEL\n    if CURRENT_MODEL_TYPE != model_choice:\n        if CURRENT_MODEL is not None:\n            del CURRENT_MODEL\n            torch.cuda.empty_cache()\n        print(f\"Loading {model_choice} model...\")\n        CURRENT_MODEL = Zonos.from_pretrained(model_choice, device=device)",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "SPEAKER_AUDIO_PATH",
+        "kind": 5,
+        "importPath": "gradio_interface",
+        "description": "gradio_interface",
+        "peekOfCode": "SPEAKER_AUDIO_PATH = None\ndef load_model_if_needed(model_choice: str):\n    global CURRENT_MODEL_TYPE, CURRENT_MODEL\n    if CURRENT_MODEL_TYPE != model_choice:\n        if CURRENT_MODEL is not None:\n            del CURRENT_MODEL\n            torch.cuda.empty_cache()\n        print(f\"Loading {model_choice} model...\")\n        CURRENT_MODEL = Zonos.from_pretrained(model_choice, device=device)\n        CURRENT_MODEL.requires_grad_(False).eval()",
+        "detail": "gradio_interface",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "model = Zonos.from_pretrained(\"Zyphra/Zonos-v0.1-transformer\", device=device)\nwav, sampling_rate = torchaudio.load(\"assets/exampleaudio.mp3\")\nspeaker = model.make_speaker_embedding(wav, sampling_rate)\ntorch.manual_seed(421)\ncond_dict = make_cond_dict(text=\"Hello, world!\", speaker=speaker, language=\"en-us\")\nconditioning = model.prepare_conditioning(cond_dict)\ncodes = model.generate(conditioning)\nwavs = model.autoencoder.decode(codes).cpu()\ntorchaudio.save(\"sample.wav\", wavs[0], model.autoencoder.sampling_rate)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "speaker",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "speaker = model.make_speaker_embedding(wav, sampling_rate)\ntorch.manual_seed(421)\ncond_dict = make_cond_dict(text=\"Hello, world!\", speaker=speaker, language=\"en-us\")\nconditioning = model.prepare_conditioning(cond_dict)\ncodes = model.generate(conditioning)\nwavs = model.autoencoder.decode(codes).cpu()\ntorchaudio.save(\"sample.wav\", wavs[0], model.autoencoder.sampling_rate)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "cond_dict",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "cond_dict = make_cond_dict(text=\"Hello, world!\", speaker=speaker, language=\"en-us\")\nconditioning = model.prepare_conditioning(cond_dict)\ncodes = model.generate(conditioning)\nwavs = model.autoencoder.decode(codes).cpu()\ntorchaudio.save(\"sample.wav\", wavs[0], model.autoencoder.sampling_rate)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "conditioning",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "conditioning = model.prepare_conditioning(cond_dict)\ncodes = model.generate(conditioning)\nwavs = model.autoencoder.decode(codes).cpu()\ntorchaudio.save(\"sample.wav\", wavs[0], model.autoencoder.sampling_rate)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "codes",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "codes = model.generate(conditioning)\nwavs = model.autoencoder.decode(codes).cpu()\ntorchaudio.save(\"sample.wav\", wavs[0], model.autoencoder.sampling_rate)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "wavs",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "wavs = model.autoencoder.decode(codes).cpu()\ntorchaudio.save(\"sample.wav\", wavs[0], model.autoencoder.sampling_rate)",
+        "detail": "sample",
+        "documentation": {}
+    }
+]
